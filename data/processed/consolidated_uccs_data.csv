@@ -1,0 +1,1137 @@
+survey_round,perception_category,perception_type,response_category,response_percentage
+2024-07-01,the General Economic Situation,Current Perception,Increased,36.3
+2024-09-01,the General Economic Situation,Current Perception,Increased,37.3
+2024-11-01,the General Economic Situation,Current Perception,Increased,35.8
+2025-01-01,the General Economic Situation,Current Perception,Increased,34.9
+2025-03-01,the General Economic Situation,Current Perception,Increased,34.7
+2025-05-01,the General Economic Situation,Current Perception,Increased,35.7
+2025-07-01,the General Economic Situation,Current Perception,Increased,34.2
+2024-07-01,the General Economic Situation,Current Perception,Remained Same,22.4
+2024-09-01,the General Economic Situation,Current Perception,Remained Same,21.1
+2024-11-01,the General Economic Situation,Current Perception,Remained Same,21.3
+2025-01-01,the General Economic Situation,Current Perception,Remained Same,22.1
+2025-03-01,the General Economic Situation,Current Perception,Remained Same,24.7
+2025-05-01,the General Economic Situation,Current Perception,Remained Same,22.4
+2025-07-01,the General Economic Situation,Current Perception,Remained Same,27.5
+2024-07-01,the General Economic Situation,Current Perception,Decreased,41.3
+2024-09-01,the General Economic Situation,Current Perception,Decreased,41.6
+2024-11-01,the General Economic Situation,Current Perception,Decreased,42.9
+2025-01-01,the General Economic Situation,Current Perception,Decreased,43.0
+2025-03-01,the General Economic Situation,Current Perception,Decreased,40.6
+2025-05-01,the General Economic Situation,Current Perception,Decreased,41.9
+2025-07-01,the General Economic Situation,Current Perception,Decreased,38.3
+2024-07-01,the General Economic Situation,Current Perception,Net Response,-5.0
+2024-09-01,the General Economic Situation,Current Perception,Net Response,-4.4
+2024-11-01,the General Economic Situation,Current Perception,Net Response,-7.1
+2025-01-01,the General Economic Situation,Current Perception,Net Response,-8.0
+2025-03-01,the General Economic Situation,Current Perception,Net Response,-5.9
+2025-05-01,the General Economic Situation,Current Perception,Net Response,-6.2
+2025-07-01,the General Economic Situation,Current Perception,Net Response,-4.2
+2024-07-01,the General Economic Situation,One year ahead Expectation,Will Increase,55.0
+2024-09-01,the General Economic Situation,One year ahead Expectation,Will Increase,55.5
+2024-11-01,the General Economic Situation,One year ahead Expectation,Will Increase,54.9
+2025-01-01,the General Economic Situation,One year ahead Expectation,Will Increase,55.2
+2025-03-01,the General Economic Situation,One year ahead Expectation,Will Increase,56.6
+2025-05-01,the General Economic Situation,One year ahead Expectation,Will Increase,57.9
+2025-07-01,the General Economic Situation,One year ahead Expectation,Will Increase,55.7
+2024-07-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,16.0
+2024-09-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,16.0
+2024-11-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,17.2
+2025-01-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.8
+2025-03-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,14.9
+2025-05-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,13.4
+2025-07-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,20.9
+2024-07-01,the General Economic Situation,One year ahead Expectation,Will Decrease,29.0
+2024-09-01,the General Economic Situation,One year ahead Expectation,Will Decrease,28.6
+2024-11-01,the General Economic Situation,One year ahead Expectation,Will Decrease,27.9
+2025-01-01,the General Economic Situation,One year ahead Expectation,Will Decrease,29.0
+2025-03-01,the General Economic Situation,One year ahead Expectation,Will Decrease,28.5
+2025-05-01,the General Economic Situation,One year ahead Expectation,Will Decrease,28.7
+2025-07-01,the General Economic Situation,One year ahead Expectation,Will Decrease,23.4
+2024-07-01,the General Economic Situation,One year ahead Expectation,Net Response,26.1
+2024-09-01,the General Economic Situation,One year ahead Expectation,Net Response,26.9
+2024-11-01,the General Economic Situation,One year ahead Expectation,Net Response,27.0
+2025-01-01,the General Economic Situation,One year ahead Expectation,Net Response,26.2
+2025-03-01,the General Economic Situation,One year ahead Expectation,Net Response,28.0
+2025-05-01,the General Economic Situation,One year ahead Expectation,Net Response,29.2
+2025-07-01,the General Economic Situation,One year ahead Expectation,Net Response,32.3
+2024-07-01,Employment,Current Perception,Increased,34.5
+2024-09-01,Employment,Current Perception,Increased,35.5
+2024-11-01,Employment,Current Perception,Increased,34.6
+2025-01-01,Employment,Current Perception,Increased,34.5
+2025-03-01,Employment,Current Perception,Increased,35.5
+2025-05-01,Employment,Current Perception,Increased,36.2
+2025-07-01,Employment,Current Perception,Increased,32.6
+2024-07-01,Employment,Current Perception,Remained Same,23.0
+2024-09-01,Employment,Current Perception,Remained Same,21.8
+2024-11-01,Employment,Current Perception,Remained Same,23.0
+2025-01-01,Employment,Current Perception,Remained Same,22.7
+2025-03-01,Employment,Current Perception,Remained Same,23.0
+2025-05-01,Employment,Current Perception,Remained Same,21.8
+2025-07-01,Employment,Current Perception,Remained Same,28.2
+2024-07-01,Employment,Current Perception,Decreased,42.6
+2024-09-01,Employment,Current Perception,Decreased,42.8
+2024-11-01,Employment,Current Perception,Decreased,42.4
+2025-01-01,Employment,Current Perception,Decreased,42.7
+2025-03-01,Employment,Current Perception,Decreased,41.5
+2025-05-01,Employment,Current Perception,Decreased,42.1
+2025-07-01,Employment,Current Perception,Decreased,39.2
+2024-07-01,Employment,Current Perception,Net Response,-8.1
+2024-09-01,Employment,Current Perception,Net Response,-7.3
+2024-11-01,Employment,Current Perception,Net Response,-7.8
+2025-01-01,Employment,Current Perception,Net Response,-8.2
+2025-03-01,Employment,Current Perception,Net Response,-6.1
+2025-05-01,Employment,Current Perception,Net Response,-5.9
+2025-07-01,Employment,Current Perception,Net Response,-6.7
+2024-07-01,Employment,One year ahead Expectation,Will Increase,54.2
+2024-09-01,Employment,One year ahead Expectation,Will Increase,54.2
+2024-11-01,Employment,One year ahead Expectation,Will Increase,54.6
+2025-01-01,Employment,One year ahead Expectation,Will Increase,54.7
+2025-03-01,Employment,One year ahead Expectation,Will Increase,56.4
+2025-05-01,Employment,One year ahead Expectation,Will Increase,56.9
+2025-07-01,Employment,One year ahead Expectation,Will Increase,53.6
+2024-07-01,Employment,One year ahead Expectation,Will Remain Same,18.4
+2024-09-01,Employment,One year ahead Expectation,Will Remain Same,18.9
+2024-11-01,Employment,One year ahead Expectation,Will Remain Same,18.9
+2025-01-01,Employment,One year ahead Expectation,Will Remain Same,18.3
+2025-03-01,Employment,One year ahead Expectation,Will Remain Same,16.5
+2025-05-01,Employment,One year ahead Expectation,Will Remain Same,16.1
+2025-07-01,Employment,One year ahead Expectation,Will Remain Same,23.8
+2024-07-01,Employment,One year ahead Expectation,Will Decrease,27.4
+2024-09-01,Employment,One year ahead Expectation,Will Decrease,26.9
+2024-11-01,Employment,One year ahead Expectation,Will Decrease,26.5
+2025-01-01,Employment,One year ahead Expectation,Will Decrease,27.0
+2025-03-01,Employment,One year ahead Expectation,Will Decrease,27.1
+2025-05-01,Employment,One year ahead Expectation,Will Decrease,27.0
+2025-07-01,Employment,One year ahead Expectation,Will Decrease,22.6
+2024-07-01,Employment,One year ahead Expectation,Net Response,26.8
+2024-09-01,Employment,One year ahead Expectation,Net Response,27.3
+2024-11-01,Employment,One year ahead Expectation,Net Response,28.1
+2025-01-01,Employment,One year ahead Expectation,Net Response,27.6
+2025-03-01,Employment,One year ahead Expectation,Net Response,29.3
+2025-05-01,Employment,One year ahead Expectation,Net Response,29.8
+2025-07-01,Employment,One year ahead Expectation,Net Response,31.0
+2024-07-01,Price Level,Current Perception,Increased,93.3
+2024-09-01,Price Level,Current Perception,Increased,93.3
+2024-11-01,Price Level,Current Perception,Increased,94.3
+2025-01-01,Price Level,Current Perception,Increased,93.0
+2025-03-01,Price Level,Current Perception,Increased,91.0
+2025-05-01,Price Level,Current Perception,Increased,90.9
+2025-07-01,Price Level,Current Perception,Increased,90.3
+2024-07-01,Price Level,Current Perception,Remained Same,6.0
+2024-09-01,Price Level,Current Perception,Remained Same,5.8
+2024-11-01,Price Level,Current Perception,Remained Same,5.0
+2025-01-01,Price Level,Current Perception,Remained Same,6.1
+2025-03-01,Price Level,Current Perception,Remained Same,7.8
+2025-05-01,Price Level,Current Perception,Remained Same,6.6
+2025-07-01,Price Level,Current Perception,Remained Same,6.4
+2024-07-01,Price Level,Current Perception,Decreased,0.7
+2024-09-01,Price Level,Current Perception,Decreased,0.9
+2024-11-01,Price Level,Current Perception,Decreased,0.7
+2025-01-01,Price Level,Current Perception,Decreased,0.9
+2025-03-01,Price Level,Current Perception,Decreased,1.3
+2025-05-01,Price Level,Current Perception,Decreased,2.5
+2025-07-01,Price Level,Current Perception,Decreased,3.3
+2024-07-01,Price Level,Current Perception,Net Response,-92.6
+2024-09-01,Price Level,Current Perception,Net Response,-92.4
+2024-11-01,Price Level,Current Perception,Net Response,-93.6
+2025-01-01,Price Level,Current Perception,Net Response,-92.0
+2025-03-01,Price Level,Current Perception,Net Response,-89.7
+2025-05-01,Price Level,Current Perception,Net Response,-88.5
+2025-07-01,Price Level,Current Perception,Net Response,-87.0
+2024-07-01,Price Level,One year ahead Expectation,Will Increase,82.7
+2024-09-01,Price Level,One year ahead Expectation,Will Increase,82.0
+2024-11-01,Price Level,One year ahead Expectation,Will Increase,82.3
+2025-01-01,Price Level,One year ahead Expectation,Will Increase,83.0
+2025-03-01,Price Level,One year ahead Expectation,Will Increase,82.2
+2025-05-01,Price Level,One year ahead Expectation,Will Increase,82.5
+2025-07-01,Price Level,One year ahead Expectation,Will Increase,81.6
+2024-07-01,Price Level,One year ahead Expectation,Will Remain Same,8.9
+2024-09-01,Price Level,One year ahead Expectation,Will Remain Same,9.5
+2024-11-01,Price Level,One year ahead Expectation,Will Remain Same,9.2
+2025-01-01,Price Level,One year ahead Expectation,Will Remain Same,9.2
+2025-03-01,Price Level,One year ahead Expectation,Will Remain Same,9.4
+2025-05-01,Price Level,One year ahead Expectation,Will Remain Same,8.1
+2025-07-01,Price Level,One year ahead Expectation,Will Remain Same,9.3
+2024-07-01,Price Level,One year ahead Expectation,Will Decrease,8.4
+2024-09-01,Price Level,One year ahead Expectation,Will Decrease,8.6
+2024-11-01,Price Level,One year ahead Expectation,Will Decrease,8.5
+2025-01-01,Price Level,One year ahead Expectation,Will Decrease,7.9
+2025-03-01,Price Level,One year ahead Expectation,Will Decrease,8.4
+2025-05-01,Price Level,One year ahead Expectation,Will Decrease,9.4
+2025-07-01,Price Level,One year ahead Expectation,Will Decrease,9.1
+2024-07-01,Price Level,One year ahead Expectation,Net Response,-74.3
+2024-09-01,Price Level,One year ahead Expectation,Net Response,-73.3
+2024-11-01,Price Level,One year ahead Expectation,Net Response,-73.8
+2025-01-01,Price Level,One year ahead Expectation,Net Response,-75.1
+2025-03-01,Price Level,One year ahead Expectation,Net Response,-73.8
+2025-05-01,Price Level,One year ahead Expectation,Net Response,-73.1
+2025-07-01,Price Level,One year ahead Expectation,Net Response,-72.4
+2024-07-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,80.6
+2024-09-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,80.7
+2024-11-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,82.5
+2025-01-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,80.7
+2025-03-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,79.4
+2025-05-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,78.0
+2025-07-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,78.7
+2024-07-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,13.4
+2024-09-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,13.0
+2024-11-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,12.1
+2025-01-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,12.9
+2025-03-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,14.0
+2025-05-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,14.8
+2025-07-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,12.5
+2024-07-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,6.1
+2024-09-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,6.2
+2024-11-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,5.4
+2025-01-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,6.5
+2025-03-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,6.7
+2025-05-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,7.2
+2025-07-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,8.7
+2024-07-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-74.6
+2024-09-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-74.5
+2024-11-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-77.2
+2025-01-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-74.2
+2025-03-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-72.7
+2025-05-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-70.7
+2025-07-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-70.0
+2024-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,79.4
+2024-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,78.7
+2024-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,79.3
+2025-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,79.9
+2025-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,78.5
+2025-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,78.1
+2025-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,79.7
+2024-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,16.2
+2024-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,15.9
+2024-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,15.1
+2025-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,14.5
+2025-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,15.0
+2025-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,14.7
+2025-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,10.9
+2024-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.4
+2024-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,5.4
+2024-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,5.7
+2025-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,5.7
+2025-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,6.5
+2025-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,7.2
+2025-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,9.4
+2024-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-75.0
+2024-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-73.4
+2024-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-73.6
+2025-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-74.2
+2025-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-72.0
+2025-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-70.8
+2025-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-70.3
+2024-07-01,Income,Current Perception,Increased,24.4
+2024-09-01,Income,Current Perception,Increased,24.1
+2024-11-01,Income,Current Perception,Increased,23.8
+2025-01-01,Income,Current Perception,Increased,22.0
+2025-03-01,Income,Current Perception,Increased,23.8
+2025-05-01,Income,Current Perception,Increased,24.1
+2025-07-01,Income,Current Perception,Increased,22.7
+2024-07-01,Income,Current Perception,Remained Same,50.8
+2024-09-01,Income,Current Perception,Remained Same,51.6
+2024-11-01,Income,Current Perception,Remained Same,51.7
+2025-01-01,Income,Current Perception,Remained Same,55.0
+2025-03-01,Income,Current Perception,Remained Same,53.0
+2025-05-01,Income,Current Perception,Remained Same,52.2
+2025-07-01,Income,Current Perception,Remained Same,56.7
+2024-07-01,Income,Current Perception,Decreased,24.9
+2024-09-01,Income,Current Perception,Decreased,24.3
+2024-11-01,Income,Current Perception,Decreased,24.5
+2025-01-01,Income,Current Perception,Decreased,23.0
+2025-03-01,Income,Current Perception,Decreased,23.3
+2025-05-01,Income,Current Perception,Decreased,23.7
+2025-07-01,Income,Current Perception,Decreased,20.6
+2024-07-01,Income,Current Perception,Net Response,-0.5
+2024-09-01,Income,Current Perception,Net Response,-0.3
+2024-11-01,Income,Current Perception,Net Response,-0.7
+2025-01-01,Income,Current Perception,Net Response,-1.0
+2025-03-01,Income,Current Perception,Net Response,0.5
+2025-05-01,Income,Current Perception,Net Response,0.4
+2025-07-01,Income,Current Perception,Net Response,2.1
+2024-07-01,Income,One year ahead Expectation,Will Increase,55.9
+2024-09-01,Income,One year ahead Expectation,Will Increase,55.8
+2024-11-01,Income,One year ahead Expectation,Will Increase,56.6
+2025-01-01,Income,One year ahead Expectation,Will Increase,55.9
+2025-03-01,Income,One year ahead Expectation,Will Increase,57.5
+2025-05-01,Income,One year ahead Expectation,Will Increase,58.0
+2025-07-01,Income,One year ahead Expectation,Will Increase,57.0
+2024-07-01,Income,One year ahead Expectation,Will Remain Same,37.3
+2024-09-01,Income,One year ahead Expectation,Will Remain Same,38.2
+2024-11-01,Income,One year ahead Expectation,Will Remain Same,37.1
+2025-01-01,Income,One year ahead Expectation,Will Remain Same,37.4
+2025-03-01,Income,One year ahead Expectation,Will Remain Same,36.0
+2025-05-01,Income,One year ahead Expectation,Will Remain Same,36.3
+2025-07-01,Income,One year ahead Expectation,Will Remain Same,38.6
+2024-07-01,Income,One year ahead Expectation,Will Decrease,6.8
+2024-09-01,Income,One year ahead Expectation,Will Decrease,6.0
+2024-11-01,Income,One year ahead Expectation,Will Decrease,6.4
+2025-01-01,Income,One year ahead Expectation,Will Decrease,6.8
+2025-03-01,Income,One year ahead Expectation,Will Decrease,6.5
+2025-05-01,Income,One year ahead Expectation,Will Decrease,5.7
+2025-07-01,Income,One year ahead Expectation,Will Decrease,4.4
+2024-07-01,Income,One year ahead Expectation,Net Response,49.1
+2024-09-01,Income,One year ahead Expectation,Net Response,49.9
+2024-11-01,Income,One year ahead Expectation,Net Response,50.2
+2025-01-01,Income,One year ahead Expectation,Net Response,49.1
+2025-03-01,Income,One year ahead Expectation,Net Response,51.0
+2025-05-01,Income,One year ahead Expectation,Net Response,52.3
+2025-07-01,Income,One year ahead Expectation,Net Response,52.6
+2024-07-01,Spending,Current Perception,Increased,78.9
+2024-09-01,Spending,Current Perception,Increased,80.4
+2024-11-01,Spending,Current Perception,Increased,80.9
+2025-01-01,Spending,Current Perception,Increased,79.3
+2025-03-01,Spending,Current Perception,Increased,80.1
+2025-05-01,Spending,Current Perception,Increased,78.7
+2025-07-01,Spending,Current Perception,Increased,80.2
+2024-07-01,Spending,Current Perception,Remained Same,18.0
+2024-09-01,Spending,Current Perception,Remained Same,16.9
+2024-11-01,Spending,Current Perception,Remained Same,17.2
+2025-01-01,Spending,Current Perception,Remained Same,19.4
+2025-03-01,Spending,Current Perception,Remained Same,18.8
+2025-05-01,Spending,Current Perception,Remained Same,19.9
+2025-07-01,Spending,Current Perception,Remained Same,17.7
+2024-07-01,Spending,Current Perception,Decreased,3.1
+2024-09-01,Spending,Current Perception,Decreased,2.7
+2024-11-01,Spending,Current Perception,Decreased,1.9
+2025-01-01,Spending,Current Perception,Decreased,1.3
+2025-03-01,Spending,Current Perception,Decreased,1.2
+2025-05-01,Spending,Current Perception,Decreased,1.4
+2025-07-01,Spending,Current Perception,Decreased,2.2
+2024-07-01,Spending,Current Perception,Net Response,75.8
+2024-09-01,Spending,Current Perception,Net Response,77.6
+2024-11-01,Spending,Current Perception,Net Response,79.0
+2025-01-01,Spending,Current Perception,Net Response,77.9
+2025-03-01,Spending,Current Perception,Net Response,78.9
+2025-05-01,Spending,Current Perception,Net Response,77.3
+2025-07-01,Spending,Current Perception,Net Response,78.0
+2024-07-01,Spending,One year ahead Expectation,Will Increase,79.5
+2024-09-01,Spending,One year ahead Expectation,Will Increase,79.6
+2024-11-01,Spending,One year ahead Expectation,Will Increase,80.8
+2025-01-01,Spending,One year ahead Expectation,Will Increase,78.8
+2025-03-01,Spending,One year ahead Expectation,Will Increase,79.6
+2025-05-01,Spending,One year ahead Expectation,Will Increase,81.1
+2025-07-01,Spending,One year ahead Expectation,Will Increase,81.0
+2024-07-01,Spending,One year ahead Expectation,Will Remain Same,16.5
+2024-09-01,Spending,One year ahead Expectation,Will Remain Same,16.9
+2024-11-01,Spending,One year ahead Expectation,Will Remain Same,16.4
+2025-01-01,Spending,One year ahead Expectation,Will Remain Same,18.3
+2025-03-01,Spending,One year ahead Expectation,Will Remain Same,18.0
+2025-05-01,Spending,One year ahead Expectation,Will Remain Same,16.4
+2025-07-01,Spending,One year ahead Expectation,Will Remain Same,18.0
+2024-07-01,Spending,One year ahead Expectation,Will Decrease,3.9
+2024-09-01,Spending,One year ahead Expectation,Will Decrease,3.6
+2024-11-01,Spending,One year ahead Expectation,Will Decrease,2.8
+2025-01-01,Spending,One year ahead Expectation,Will Decrease,2.9
+2025-03-01,Spending,One year ahead Expectation,Will Decrease,2.4
+2025-05-01,Spending,One year ahead Expectation,Will Decrease,2.5
+2025-07-01,Spending,One year ahead Expectation,Will Decrease,1.0
+2024-07-01,Spending,One year ahead Expectation,Net Response,75.6
+2024-09-01,Spending,One year ahead Expectation,Net Response,76.0
+2024-11-01,Spending,One year ahead Expectation,Net Response,78.0
+2025-01-01,Spending,One year ahead Expectation,Net Response,75.9
+2025-03-01,Spending,One year ahead Expectation,Net Response,77.2
+2025-05-01,Spending,One year ahead Expectation,Net Response,78.6
+2025-07-01,Spending,One year ahead Expectation,Net Response,80.0
+2024-07-01,Spending- Essential Items,Current Perception,Increased,87.3
+2024-09-01,Spending- Essential Items,Current Perception,Increased,87.9
+2024-11-01,Spending- Essential Items,Current Perception,Increased,88.6
+2025-01-01,Spending- Essential Items,Current Perception,Increased,87.6
+2025-03-01,Spending- Essential Items,Current Perception,Increased,87.4
+2025-05-01,Spending- Essential Items,Current Perception,Increased,87.5
+2025-07-01,Spending- Essential Items,Current Perception,Increased,87.5
+2024-07-01,Spending- Essential Items,Current Perception,Remained Same,10.5
+2024-09-01,Spending- Essential Items,Current Perception,Remained Same,10.3
+2024-11-01,Spending- Essential Items,Current Perception,Remained Same,9.7
+2025-01-01,Spending- Essential Items,Current Perception,Remained Same,10.9
+2025-03-01,Spending- Essential Items,Current Perception,Remained Same,12.0
+2025-05-01,Spending- Essential Items,Current Perception,Remained Same,11.0
+2025-07-01,Spending- Essential Items,Current Perception,Remained Same,11.5
+2024-07-01,Spending- Essential Items,Current Perception,Decreased,2.2
+2024-09-01,Spending- Essential Items,Current Perception,Decreased,1.8
+2024-11-01,Spending- Essential Items,Current Perception,Decreased,1.7
+2025-01-01,Spending- Essential Items,Current Perception,Decreased,1.6
+2025-03-01,Spending- Essential Items,Current Perception,Decreased,0.6
+2025-05-01,Spending- Essential Items,Current Perception,Decreased,1.4
+2025-07-01,Spending- Essential Items,Current Perception,Decreased,1.0
+2024-07-01,Spending- Essential Items,Current Perception,Net Response,85.1
+2024-09-01,Spending- Essential Items,Current Perception,Net Response,86.2
+2024-11-01,Spending- Essential Items,Current Perception,Net Response,86.9
+2025-01-01,Spending- Essential Items,Current Perception,Net Response,86.0
+2025-03-01,Spending- Essential Items,Current Perception,Net Response,86.9
+2025-05-01,Spending- Essential Items,Current Perception,Net Response,86.1
+2025-07-01,Spending- Essential Items,Current Perception,Net Response,86.5
+2024-07-01,Spending- Essential Items,One year ahead Expectation,Will Increase,85.0
+2024-09-01,Spending- Essential Items,One year ahead Expectation,Will Increase,84.9
+2024-11-01,Spending- Essential Items,One year ahead Expectation,Will Increase,85.9
+2025-01-01,Spending- Essential Items,One year ahead Expectation,Will Increase,85.1
+2025-03-01,Spending- Essential Items,One year ahead Expectation,Will Increase,86.2
+2025-05-01,Spending- Essential Items,One year ahead Expectation,Will Increase,86.9
+2025-07-01,Spending- Essential Items,One year ahead Expectation,Will Increase,87.1
+2024-07-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,12.1
+2024-09-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,12.4
+2024-11-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,11.5
+2025-01-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,12.3
+2025-03-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,12.1
+2025-05-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,11.3
+2025-07-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,12.0
+2024-07-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,2.9
+2024-09-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,2.7
+2024-11-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,2.6
+2025-01-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,2.6
+2025-03-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,1.8
+2025-05-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,1.8
+2025-07-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,0.9
+2024-07-01,Spending- Essential Items,One year ahead Expectation,Net Response,82.0
+2024-09-01,Spending- Essential Items,One year ahead Expectation,Net Response,82.2
+2024-11-01,Spending- Essential Items,One year ahead Expectation,Net Response,83.3
+2025-01-01,Spending- Essential Items,One year ahead Expectation,Net Response,82.5
+2025-03-01,Spending- Essential Items,One year ahead Expectation,Net Response,84.4
+2025-05-01,Spending- Essential Items,One year ahead Expectation,Net Response,85.1
+2025-07-01,Spending- Essential Items,One year ahead Expectation,Net Response,86.2
+2024-07-01,Spending- Non-Essential Items,Current Perception,Increased,29.0
+2024-09-01,Spending- Non-Essential Items,Current Perception,Increased,27.6
+2024-11-01,Spending- Non-Essential Items,Current Perception,Increased,30.2
+2025-01-01,Spending- Non-Essential Items,Current Perception,Increased,29.2
+2025-03-01,Spending- Non-Essential Items,Current Perception,Increased,28.5
+2025-05-01,Spending- Non-Essential Items,Current Perception,Increased,27.8
+2025-07-01,Spending- Non-Essential Items,Current Perception,Increased,37.6
+2024-07-01,Spending- Non-Essential Items,Current Perception,Remained Same,36.7
+2024-09-01,Spending- Non-Essential Items,Current Perception,Remained Same,40.2
+2024-11-01,Spending- Non-Essential Items,Current Perception,Remained Same,37.2
+2025-01-01,Spending- Non-Essential Items,Current Perception,Remained Same,38.5
+2025-03-01,Spending- Non-Essential Items,Current Perception,Remained Same,40.9
+2025-05-01,Spending- Non-Essential Items,Current Perception,Remained Same,41.1
+2025-07-01,Spending- Non-Essential Items,Current Perception,Remained Same,25.1
+2024-07-01,Spending- Non-Essential Items,Current Perception,Decreased,34.4
+2024-09-01,Spending- Non-Essential Items,Current Perception,Decreased,32.3
+2024-11-01,Spending- Non-Essential Items,Current Perception,Decreased,32.6
+2025-01-01,Spending- Non-Essential Items,Current Perception,Decreased,32.3
+2025-03-01,Spending- Non-Essential Items,Current Perception,Decreased,30.7
+2025-05-01,Spending- Non-Essential Items,Current Perception,Decreased,31.2
+2025-07-01,Spending- Non-Essential Items,Current Perception,Decreased,37.3
+2024-07-01,Spending- Non-Essential Items,Current Perception,Net Response,-5.4
+2024-09-01,Spending- Non-Essential Items,Current Perception,Net Response,-4.7
+2024-11-01,Spending- Non-Essential Items,Current Perception,Net Response,-2.4
+2025-01-01,Spending- Non-Essential Items,Current Perception,Net Response,-3.1
+2025-03-01,Spending- Non-Essential Items,Current Perception,Net Response,-2.2
+2025-05-01,Spending- Non-Essential Items,Current Perception,Net Response,-3.4
+2025-07-01,Spending- Non-Essential Items,Current Perception,Net Response,0.4
+2024-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,37.4
+2024-09-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,36.4
+2024-11-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,38.4
+2025-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,37.4
+2025-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,37.7
+2025-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,38.2
+2025-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,43.6
+2024-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,35.6
+2024-09-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,37.8
+2024-11-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,35.0
+2025-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,36.1
+2025-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,37.7
+2025-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,37.3
+2025-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,27.7
+2024-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,27.0
+2024-09-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,25.8
+2024-11-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,26.6
+2025-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,26.5
+2025-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,24.6
+2025-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,24.5
+2025-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,28.7
+2024-07-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,10.3
+2024-09-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,10.6
+2024-11-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,11.8
+2025-01-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,11.0
+2025-03-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,13.1
+2025-05-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,13.8
+2025-07-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,15.0
+2024-01-01,the General Economic Situation,Current Perception,Increased,37.5
+2024-03-01,the General Economic Situation,Current Perception,Increased,41.2
+2024-05-01,the General Economic Situation,Current Perception,Increased,40.0
+2024-01-01,the General Economic Situation,Current Perception,Remained Same,22.3
+2024-03-01,the General Economic Situation,Current Perception,Remained Same,23.1
+2024-05-01,the General Economic Situation,Current Perception,Remained Same,22.6
+2024-01-01,the General Economic Situation,Current Perception,Decreased,40.2
+2024-03-01,the General Economic Situation,Current Perception,Decreased,35.8
+2024-05-01,the General Economic Situation,Current Perception,Decreased,37.4
+2024-01-01,the General Economic Situation,Current Perception,Net Response,-2.7
+2024-03-01,the General Economic Situation,Current Perception,Net Response,5.4
+2024-05-01,the General Economic Situation,Current Perception,Net Response,2.6
+2024-01-01,the General Economic Situation,One year ahead Expectation,Will Increase,59.2
+2024-03-01,the General Economic Situation,One year ahead Expectation,Will Increase,60.7
+2024-05-01,the General Economic Situation,One year ahead Expectation,Will Increase,59.0
+2024-01-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.3
+2024-03-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.8
+2024-05-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.6
+2024-01-01,the General Economic Situation,One year ahead Expectation,Will Decrease,25.5
+2024-03-01,the General Economic Situation,One year ahead Expectation,Will Decrease,23.4
+2024-05-01,the General Economic Situation,One year ahead Expectation,Will Decrease,25.4
+2024-01-01,the General Economic Situation,One year ahead Expectation,Net Response,33.7
+2024-03-01,the General Economic Situation,One year ahead Expectation,Net Response,37.3
+2024-05-01,the General Economic Situation,One year ahead Expectation,Net Response,33.5
+2024-01-01,Employment,Current Perception,Increased,35.3
+2024-03-01,Employment,Current Perception,Increased,38.1
+2024-05-01,Employment,Current Perception,Increased,36.8
+2024-01-01,Employment,Current Perception,Remained Same,23.4
+2024-03-01,Employment,Current Perception,Remained Same,23.8
+2024-05-01,Employment,Current Perception,Remained Same,23.0
+2024-01-01,Employment,Current Perception,Decreased,41.3
+2024-03-01,Employment,Current Perception,Decreased,38.1
+2024-05-01,Employment,Current Perception,Decreased,40.2
+2024-01-01,Employment,Current Perception,Net Response,-6.0
+2024-03-01,Employment,Current Perception,Net Response,0.0
+2024-05-01,Employment,Current Perception,Net Response,-3.3
+2024-01-01,Employment,One year ahead Expectation,Will Increase,58.7
+2024-03-01,Employment,One year ahead Expectation,Will Increase,60.0
+2024-05-01,Employment,One year ahead Expectation,Will Increase,58.0
+2024-01-01,Employment,One year ahead Expectation,Will Remain Same,17.4
+2024-03-01,Employment,One year ahead Expectation,Will Remain Same,17.4
+2024-05-01,Employment,One year ahead Expectation,Will Remain Same,18.3
+2024-01-01,Employment,One year ahead Expectation,Will Decrease,24.0
+2024-03-01,Employment,One year ahead Expectation,Will Decrease,22.6
+2024-05-01,Employment,One year ahead Expectation,Will Decrease,23.7
+2024-01-01,Employment,One year ahead Expectation,Net Response,34.7
+2024-03-01,Employment,One year ahead Expectation,Net Response,37.4
+2024-05-01,Employment,One year ahead Expectation,Net Response,34.3
+2024-01-01,Price Level,Current Perception,Increased,90.8
+2024-03-01,Price Level,Current Perception,Increased,89.2
+2024-05-01,Price Level,Current Perception,Increased,90.5
+2024-01-01,Price Level,Current Perception,Remained Same,7.2
+2024-03-01,Price Level,Current Perception,Remained Same,9.3
+2024-05-01,Price Level,Current Perception,Remained Same,7.8
+2024-01-01,Price Level,Current Perception,Decreased,2.0
+2024-03-01,Price Level,Current Perception,Decreased,1.4
+2024-05-01,Price Level,Current Perception,Decreased,1.6
+2024-01-01,Price Level,Current Perception,Net Response,-88.9
+2024-03-01,Price Level,Current Perception,Net Response,-87.8
+2024-05-01,Price Level,Current Perception,Net Response,-88.9
+2024-01-01,Price Level,One year ahead Expectation,Will Increase,80.5
+2024-03-01,Price Level,One year ahead Expectation,Will Increase,78.2
+2024-05-01,Price Level,One year ahead Expectation,Will Increase,79.0
+2024-01-01,Price Level,One year ahead Expectation,Will Remain Same,10.4
+2024-03-01,Price Level,One year ahead Expectation,Will Remain Same,12.5
+2024-05-01,Price Level,One year ahead Expectation,Will Remain Same,10.4
+2024-01-01,Price Level,One year ahead Expectation,Will Decrease,9.1
+2024-03-01,Price Level,One year ahead Expectation,Will Decrease,9.4
+2024-05-01,Price Level,One year ahead Expectation,Will Decrease,10.6
+2024-01-01,Price Level,One year ahead Expectation,Net Response,-71.4
+2024-03-01,Price Level,One year ahead Expectation,Net Response,-68.8
+2024-05-01,Price Level,One year ahead Expectation,Net Response,-68.4
+2024-01-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,79.5
+2024-03-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,77.0
+2024-05-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,77.8
+2024-01-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,15.7
+2024-03-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,17.6
+2024-05-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,15.1
+2024-01-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,4.8
+2024-03-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,5.4
+2024-05-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,7.1
+2024-01-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-74.7
+2024-03-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-71.6
+2024-05-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-70.6
+2024-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,77.2
+2024-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,76.7
+2024-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,79.1
+2024-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,17.8
+2024-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,18.3
+2024-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,16.0
+2024-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,5.0
+2024-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,5.0
+2024-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.9
+2024-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-72.2
+2024-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-71.7
+2024-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-74.3
+2024-01-01,Income,Current Perception,Increased,26.4
+2024-03-01,Income,Current Perception,Increased,27.7
+2024-05-01,Income,Current Perception,Increased,25.3
+2024-01-01,Income,Current Perception,Remained Same,51.5
+2024-03-01,Income,Current Perception,Remained Same,50.6
+2024-05-01,Income,Current Perception,Remained Same,52.3
+2024-01-01,Income,Current Perception,Decreased,22.1
+2024-03-01,Income,Current Perception,Decreased,21.7
+2024-05-01,Income,Current Perception,Decreased,22.4
+2024-01-01,Income,Current Perception,Net Response,4.2
+2024-03-01,Income,Current Perception,Net Response,6.0
+2024-05-01,Income,Current Perception,Net Response,2.9
+2024-01-01,Income,One year ahead Expectation,Will Increase,56.3
+2024-03-01,Income,One year ahead Expectation,Will Increase,56.7
+2024-05-01,Income,One year ahead Expectation,Will Increase,56.9
+2024-01-01,Income,One year ahead Expectation,Will Remain Same,36.9
+2024-03-01,Income,One year ahead Expectation,Will Remain Same,37.2
+2024-05-01,Income,One year ahead Expectation,Will Remain Same,36.9
+2024-01-01,Income,One year ahead Expectation,Will Decrease,6.8
+2024-03-01,Income,One year ahead Expectation,Will Decrease,6.1
+2024-05-01,Income,One year ahead Expectation,Will Decrease,6.2
+2024-01-01,Income,One year ahead Expectation,Net Response,49.4
+2024-03-01,Income,One year ahead Expectation,Net Response,50.5
+2024-05-01,Income,One year ahead Expectation,Net Response,50.7
+2024-01-01,Spending,Current Perception,Increased,73.2
+2024-03-01,Spending,Current Perception,Increased,73.1
+2024-05-01,Spending,Current Perception,Increased,76.2
+2024-01-01,Spending,Current Perception,Remained Same,22.3
+2024-03-01,Spending,Current Perception,Remained Same,23.1
+2024-05-01,Spending,Current Perception,Remained Same,20.1
+2024-01-01,Spending,Current Perception,Decreased,4.5
+2024-03-01,Spending,Current Perception,Decreased,3.8
+2024-05-01,Spending,Current Perception,Decreased,3.8
+2024-01-01,Spending,Current Perception,Net Response,68.6
+2024-03-01,Spending,Current Perception,Net Response,69.2
+2024-05-01,Spending,Current Perception,Net Response,72.5
+2024-01-01,Spending,One year ahead Expectation,Will Increase,74.2
+2024-03-01,Spending,One year ahead Expectation,Will Increase,73.9
+2024-05-01,Spending,One year ahead Expectation,Will Increase,77.9
+2024-01-01,Spending,One year ahead Expectation,Will Remain Same,20.9
+2024-03-01,Spending,One year ahead Expectation,Will Remain Same,21.7
+2024-05-01,Spending,One year ahead Expectation,Will Remain Same,18.1
+2024-01-01,Spending,One year ahead Expectation,Will Decrease,5.0
+2024-03-01,Spending,One year ahead Expectation,Will Decrease,4.3
+2024-05-01,Spending,One year ahead Expectation,Will Decrease,4.0
+2024-01-01,Spending,One year ahead Expectation,Net Response,69.2
+2024-03-01,Spending,One year ahead Expectation,Net Response,69.6
+2024-05-01,Spending,One year ahead Expectation,Net Response,73.9
+2024-01-01,Spending - Essential Items,Current Perception,Increased,84.1
+2024-03-01,Spending - Essential Items,Current Perception,Increased,84.5
+2024-05-01,Spending - Essential Items,Current Perception,Increased,85.6
+2024-07-01,Spending - Essential Items,Current Perception,Increased,87.3
+2024-09-01,Spending - Essential Items,Current Perception,Increased,87.9
+2024-11-01,Spending - Essential Items,Current Perception,Increased,88.6
+2025-01-01,Spending - Essential Items,Current Perception,Increased,87.6
+2024-01-01,Spending - Essential Items,Current Perception,Remained Same,12.9
+2024-03-01,Spending - Essential Items,Current Perception,Remained Same,13.0
+2024-05-01,Spending - Essential Items,Current Perception,Remained Same,11.8
+2024-07-01,Spending - Essential Items,Current Perception,Remained Same,10.5
+2024-09-01,Spending - Essential Items,Current Perception,Remained Same,10.3
+2024-11-01,Spending - Essential Items,Current Perception,Remained Same,9.7
+2025-01-01,Spending - Essential Items,Current Perception,Remained Same,10.9
+2024-01-01,Spending - Essential Items,Current Perception,Decreased,3.0
+2024-03-01,Spending - Essential Items,Current Perception,Decreased,2.5
+2024-05-01,Spending - Essential Items,Current Perception,Decreased,2.7
+2024-07-01,Spending - Essential Items,Current Perception,Decreased,2.2
+2024-09-01,Spending - Essential Items,Current Perception,Decreased,1.8
+2024-11-01,Spending - Essential Items,Current Perception,Decreased,1.7
+2025-01-01,Spending - Essential Items,Current Perception,Decreased,1.6
+2024-01-01,Spending - Essential Items,Current Perception,Net Response,81.1
+2024-03-01,Spending - Essential Items,Current Perception,Net Response,82.0
+2024-05-01,Spending - Essential Items,Current Perception,Net Response,82.9
+2024-07-01,Spending - Essential Items,Current Perception,Net Response,85.1
+2024-09-01,Spending - Essential Items,Current Perception,Net Response,86.2
+2024-11-01,Spending - Essential Items,Current Perception,Net Response,86.9
+2025-01-01,Spending - Essential Items,Current Perception,Net Response,86.0
+2024-01-01,Spending - Essential Items,One year ahead Expectation,Will Increase,81.8
+2024-03-01,Spending - Essential Items,One year ahead Expectation,Will Increase,82.5
+2024-05-01,Spending - Essential Items,One year ahead Expectation,Will Increase,84.7
+2024-07-01,Spending - Essential Items,One year ahead Expectation,Will Increase,85.0
+2024-09-01,Spending - Essential Items,One year ahead Expectation,Will Increase,84.9
+2024-11-01,Spending - Essential Items,One year ahead Expectation,Will Increase,85.9
+2025-01-01,Spending - Essential Items,One year ahead Expectation,Will Increase,85.1
+2024-01-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,14.6
+2024-03-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,14.5
+2024-05-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,12.3
+2024-07-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,12.1
+2024-09-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,12.4
+2024-11-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,11.5
+2025-01-01,Spending - Essential Items,One year ahead Expectation,Will Remain Same,12.3
+2024-01-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,3.6
+2024-03-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,3.0
+2024-05-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,3.1
+2024-07-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,2.9
+2024-09-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,2.7
+2024-11-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,2.6
+2025-01-01,Spending - Essential Items,One year ahead Expectation,Will Decrease,2.6
+2024-01-01,Spending - Essential Items,One year ahead Expectation,Net Response,78.2
+2024-03-01,Spending - Essential Items,One year ahead Expectation,Net Response,79.5
+2024-05-01,Spending - Essential Items,One year ahead Expectation,Net Response,81.6
+2024-07-01,Spending - Essential Items,One year ahead Expectation,Net Response,82.0
+2024-09-01,Spending - Essential Items,One year ahead Expectation,Net Response,82.2
+2024-11-01,Spending - Essential Items,One year ahead Expectation,Net Response,83.3
+2025-01-01,Spending - Essential Items,One year ahead Expectation,Net Response,82.5
+2024-01-01,Spending - Non-Essential Items,Current Perception,Increased,27.2
+2024-03-01,Spending - Non-Essential Items,Current Perception,Increased,29.2
+2024-05-01,Spending - Non-Essential Items,Current Perception,Increased,30.5
+2024-07-01,Spending - Non-Essential Items,Current Perception,Increased,29.0
+2024-09-01,Spending - Non-Essential Items,Current Perception,Increased,27.6
+2024-11-01,Spending - Non-Essential Items,Current Perception,Increased,30.2
+2025-01-01,Spending - Non-Essential Items,Current Perception,Increased,29.2
+2024-01-01,Spending - Non-Essential Items,Current Perception,Remained Same,36.2
+2024-03-01,Spending - Non-Essential Items,Current Perception,Remained Same,37.6
+2024-05-01,Spending - Non-Essential Items,Current Perception,Remained Same,35.4
+2024-07-01,Spending - Non-Essential Items,Current Perception,Remained Same,36.7
+2024-09-01,Spending - Non-Essential Items,Current Perception,Remained Same,40.2
+2024-11-01,Spending - Non-Essential Items,Current Perception,Remained Same,37.2
+2025-01-01,Spending - Non-Essential Items,Current Perception,Remained Same,38.5
+2024-01-01,Spending - Non-Essential Items,Current Perception,Decreased,36.6
+2024-03-01,Spending - Non-Essential Items,Current Perception,Decreased,33.2
+2024-05-01,Spending - Non-Essential Items,Current Perception,Decreased,34.1
+2024-07-01,Spending - Non-Essential Items,Current Perception,Decreased,34.4
+2024-09-01,Spending - Non-Essential Items,Current Perception,Decreased,32.3
+2024-11-01,Spending - Non-Essential Items,Current Perception,Decreased,32.6
+2025-01-01,Spending - Non-Essential Items,Current Perception,Decreased,32.3
+2024-01-01,Spending - Non-Essential Items,Current Perception,Net Response,-9.4
+2024-03-01,Spending - Non-Essential Items,Current Perception,Net Response,-4.1
+2024-05-01,Spending - Non-Essential Items,Current Perception,Net Response,-3.7
+2024-07-01,Spending - Non-Essential Items,Current Perception,Net Response,-5.4
+2024-09-01,Spending - Non-Essential Items,Current Perception,Net Response,-4.7
+2024-11-01,Spending - Non-Essential Items,Current Perception,Net Response,-2.4
+2025-01-01,Spending - Non-Essential Items,Current Perception,Net Response,-3.1
+2024-01-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,34.6
+2024-03-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,35.7
+2024-05-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,37.4
+2024-07-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,37.4
+2024-09-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,36.4
+2024-11-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,38.4
+2025-01-01,Spending - Non-Essential Items,One year ahead Expectation,Will Increase,37.4
+2024-01-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,36.4
+2024-03-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,37.6
+2024-05-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,35.2
+2024-07-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,35.6
+2024-09-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,37.8
+2024-11-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,35.0
+2025-01-01,Spending - Non-Essential Items,One year ahead Expectation,Will Remain Same,36.1
+2024-01-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,29.0
+2024-03-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,26.7
+2024-05-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,27.4
+2024-07-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,27.0
+2024-09-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,25.8
+2024-11-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,26.6
+2025-01-01,Spending - Non-Essential Items,One year ahead Expectation,Will Decrease,26.5
+2024-01-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,5.5
+2024-03-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,9.0
+2024-05-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,9.9
+2024-07-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,10.3
+2024-09-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,10.6
+2024-11-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,11.8
+2025-01-01,Spending - Non-Essential Items,One year ahead Expectation,Net Response,11.0
+2024-03-01,Spending- Essential Items,Current Perception,Increased,84.5
+2024-05-01,Spending- Essential Items,Current Perception,Increased,85.6
+2024-03-01,Spending- Essential Items,Current Perception,Remained Same,13.0
+2024-05-01,Spending- Essential Items,Current Perception,Remained Same,11.8
+2024-03-01,Spending- Essential Items,Current Perception,Decreased,2.5
+2024-05-01,Spending- Essential Items,Current Perception,Decreased,2.7
+2024-03-01,Spending- Essential Items,Current Perception,Net Response,82.0
+2024-05-01,Spending- Essential Items,Current Perception,Net Response,82.9
+2024-03-01,Spending- Essential Items,One year ahead Expectation,Will Increase,82.5
+2024-05-01,Spending- Essential Items,One year ahead Expectation,Will Increase,84.7
+2024-03-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,14.5
+2024-05-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,12.3
+2024-03-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.0
+2024-05-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.1
+2024-03-01,Spending- Essential Items,One year ahead Expectation,Net Response,79.5
+2024-05-01,Spending- Essential Items,One year ahead Expectation,Net Response,81.6
+2024-03-01,Spending- Non-Essential Items,Current Perception,Increased,29.2
+2024-05-01,Spending- Non-Essential Items,Current Perception,Increased,30.5
+2024-03-01,Spending- Non-Essential Items,Current Perception,Remained Same,37.6
+2024-05-01,Spending- Non-Essential Items,Current Perception,Remained Same,35.4
+2024-03-01,Spending- Non-Essential Items,Current Perception,Decreased,33.2
+2024-05-01,Spending- Non-Essential Items,Current Perception,Decreased,34.1
+2024-03-01,Spending- Non-Essential Items,Current Perception,Net Response,-4.1
+2024-05-01,Spending- Non-Essential Items,Current Perception,Net Response,-3.7
+2024-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,35.7
+2024-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,37.4
+2024-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,37.6
+2024-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,35.2
+2024-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,26.7
+2024-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,27.4
+2024-03-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,9.0
+2024-05-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,9.9
+2023-03-01,the General Economic Situation,Current Perception,Increased,31.4
+2023-05-01,the General Economic Situation,Current Perception,Increased,32.1
+2023-07-01,the General Economic Situation,Current Perception,Increased,30.4
+2023-09-01,the General Economic Situation,Current Perception,Increased,36.1
+2023-11-01,the General Economic Situation,Current Perception,Increased,33.1
+2023-03-01,the General Economic Situation,Current Perception,Remained Same,16.9
+2023-05-01,the General Economic Situation,Current Perception,Remained Same,19.0
+2023-07-01,the General Economic Situation,Current Perception,Remained Same,18.5
+2023-09-01,the General Economic Situation,Current Perception,Remained Same,19.9
+2023-11-01,the General Economic Situation,Current Perception,Remained Same,22.5
+2023-03-01,the General Economic Situation,Current Perception,Decreased,51.7
+2023-05-01,the General Economic Situation,Current Perception,Decreased,48.9
+2023-07-01,the General Economic Situation,Current Perception,Decreased,51.1
+2023-09-01,the General Economic Situation,Current Perception,Decreased,44.0
+2023-11-01,the General Economic Situation,Current Perception,Decreased,44.4
+2023-03-01,the General Economic Situation,Current Perception,Net Response,-20.4
+2023-05-01,the General Economic Situation,Current Perception,Net Response,-16.8
+2023-07-01,the General Economic Situation,Current Perception,Net Response,-20.7
+2023-09-01,the General Economic Situation,Current Perception,Net Response,-7.9
+2023-11-01,the General Economic Situation,Current Perception,Net Response,-11.3
+2023-03-01,the General Economic Situation,One year ahead Expectation,Will Increase,49.9
+2023-05-01,the General Economic Situation,One year ahead Expectation,Will Increase,51.0
+2023-07-01,the General Economic Situation,One year ahead Expectation,Will Increase,51.1
+2023-09-01,the General Economic Situation,One year ahead Expectation,Will Increase,56.8
+2023-11-01,the General Economic Situation,One year ahead Expectation,Will Increase,54.3
+2023-03-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.1
+2023-05-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.8
+2023-07-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.1
+2023-09-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,15.1
+2023-11-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,17.2
+2023-03-01,the General Economic Situation,One year ahead Expectation,Will Decrease,35.0
+2023-05-01,the General Economic Situation,One year ahead Expectation,Will Decrease,33.2
+2023-07-01,the General Economic Situation,One year ahead Expectation,Will Decrease,33.8
+2023-09-01,the General Economic Situation,One year ahead Expectation,Will Decrease,28.1
+2023-11-01,the General Economic Situation,One year ahead Expectation,Will Decrease,28.5
+2023-03-01,the General Economic Situation,One year ahead Expectation,Net Response,15.0
+2023-05-01,the General Economic Situation,One year ahead Expectation,Net Response,17.8
+2023-07-01,the General Economic Situation,One year ahead Expectation,Net Response,17.2
+2023-09-01,the General Economic Situation,One year ahead Expectation,Net Response,28.6
+2023-11-01,the General Economic Situation,One year ahead Expectation,Net Response,25.7
+2023-03-01,Employment,Current Perception,Increased,32.2
+2023-05-01,Employment,Current Perception,Increased,32.1
+2023-07-01,Employment,Current Perception,Increased,30.8
+2023-09-01,Employment,Current Perception,Increased,34.0
+2023-11-01,Employment,Current Perception,Increased,32.3
+2023-03-01,Employment,Current Perception,Remained Same,19.9
+2023-05-01,Employment,Current Perception,Remained Same,20.2
+2023-07-01,Employment,Current Perception,Remained Same,21.0
+2023-09-01,Employment,Current Perception,Remained Same,21.8
+2023-11-01,Employment,Current Perception,Remained Same,23.0
+2023-03-01,Employment,Current Perception,Decreased,47.9
+2023-05-01,Employment,Current Perception,Decreased,47.7
+2023-07-01,Employment,Current Perception,Decreased,48.2
+2023-09-01,Employment,Current Perception,Decreased,44.2
+2023-11-01,Employment,Current Perception,Decreased,44.7
+2023-03-01,Employment,Current Perception,Net Response,-15.7
+2023-05-01,Employment,Current Perception,Net Response,-15.6
+2023-07-01,Employment,Current Perception,Net Response,-17.5
+2023-09-01,Employment,Current Perception,Net Response,-10.2
+2023-11-01,Employment,Current Perception,Net Response,-12.4
+2023-03-01,Employment,One year ahead Expectation,Will Increase,52.9
+2023-05-01,Employment,One year ahead Expectation,Will Increase,52.1
+2023-07-01,Employment,One year ahead Expectation,Will Increase,51.4
+2023-09-01,Employment,One year ahead Expectation,Will Increase,55.8
+2023-11-01,Employment,One year ahead Expectation,Will Increase,53.6
+2023-03-01,Employment,One year ahead Expectation,Will Remain Same,17.1
+2023-05-01,Employment,One year ahead Expectation,Will Remain Same,18.7
+2023-07-01,Employment,One year ahead Expectation,Will Remain Same,18.3
+2023-09-01,Employment,One year ahead Expectation,Will Remain Same,18.1
+2023-11-01,Employment,One year ahead Expectation,Will Remain Same,19.7
+2023-03-01,Employment,One year ahead Expectation,Will Decrease,30.1
+2023-05-01,Employment,One year ahead Expectation,Will Decrease,29.2
+2023-07-01,Employment,One year ahead Expectation,Will Decrease,30.3
+2023-09-01,Employment,One year ahead Expectation,Will Decrease,26.2
+2023-11-01,Employment,One year ahead Expectation,Will Decrease,26.8
+2023-03-01,Employment,One year ahead Expectation,Net Response,22.8
+2023-05-01,Employment,One year ahead Expectation,Net Response,22.9
+2023-07-01,Employment,One year ahead Expectation,Net Response,21.1
+2023-09-01,Employment,One year ahead Expectation,Net Response,29.6
+2023-11-01,Employment,One year ahead Expectation,Net Response,26.9
+2023-03-01,Price Level,Current Perception,Increased,93.8
+2023-05-01,Price Level,Current Perception,Increased,92.2
+2023-07-01,Price Level,Current Perception,Increased,92.7
+2023-09-01,Price Level,Current Perception,Increased,91.8
+2023-11-01,Price Level,Current Perception,Increased,91.3
+2023-03-01,Price Level,Current Perception,Remained Same,5.2
+2023-05-01,Price Level,Current Perception,Remained Same,6.4
+2023-07-01,Price Level,Current Perception,Remained Same,6.0
+2023-09-01,Price Level,Current Perception,Remained Same,6.4
+2023-11-01,Price Level,Current Perception,Remained Same,7.3
+2023-03-01,Price Level,Current Perception,Decreased,1.0
+2023-05-01,Price Level,Current Perception,Decreased,1.4
+2023-07-01,Price Level,Current Perception,Decreased,1.3
+2023-09-01,Price Level,Current Perception,Decreased,1.8
+2023-11-01,Price Level,Current Perception,Decreased,1.4
+2023-03-01,Price Level,Current Perception,Net Response,-92.9
+2023-05-01,Price Level,Current Perception,Net Response,-90.8
+2023-07-01,Price Level,Current Perception,Net Response,-91.4
+2023-09-01,Price Level,Current Perception,Net Response,-90.0
+2023-11-01,Price Level,Current Perception,Net Response,-89.9
+2023-03-01,Price Level,One year ahead Expectation,Will Increase,84.3
+2023-05-01,Price Level,One year ahead Expectation,Will Increase,82.7
+2023-07-01,Price Level,One year ahead Expectation,Will Increase,80.9
+2023-09-01,Price Level,One year ahead Expectation,Will Increase,78.4
+2023-11-01,Price Level,One year ahead Expectation,Will Increase,81.0
+2023-03-01,Price Level,One year ahead Expectation,Will Remain Same,9.0
+2023-05-01,Price Level,One year ahead Expectation,Will Remain Same,10.0
+2023-07-01,Price Level,One year ahead Expectation,Will Remain Same,10.2
+2023-09-01,Price Level,One year ahead Expectation,Will Remain Same,9.9
+2023-11-01,Price Level,One year ahead Expectation,Will Remain Same,10.2
+2023-03-01,Price Level,One year ahead Expectation,Will Decrease,6.7
+2023-05-01,Price Level,One year ahead Expectation,Will Decrease,7.3
+2023-07-01,Price Level,One year ahead Expectation,Will Decrease,8.9
+2023-09-01,Price Level,One year ahead Expectation,Will Decrease,11.7
+2023-11-01,Price Level,One year ahead Expectation,Will Decrease,8.8
+2023-03-01,Price Level,One year ahead Expectation,Net Response,-77.5
+2023-05-01,Price Level,One year ahead Expectation,Net Response,-75.4
+2023-07-01,Price Level,One year ahead Expectation,Net Response,-72.0
+2023-09-01,Price Level,One year ahead Expectation,Net Response,-66.8
+2023-11-01,Price Level,One year ahead Expectation,Net Response,-72.3
+2023-03-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,86.5
+2023-05-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,84.0
+2023-07-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,84.5
+2023-09-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,82.5
+2023-11-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,81.8
+2023-03-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,10.0
+2023-05-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,12.5
+2023-07-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,11.8
+2023-09-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,13.4
+2023-11-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,13.6
+2023-03-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,3.5
+2023-05-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,3.4
+2023-07-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,3.7
+2023-09-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,4.2
+2023-11-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,4.6
+2023-03-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-82.9
+2023-05-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-80.6
+2023-07-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-80.8
+2023-09-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-78.3
+2023-11-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-77.2
+2023-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,81.4
+2023-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,81.8
+2023-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,80.8
+2023-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,79.4
+2023-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,80.1
+2023-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,14.0
+2023-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,14.1
+2023-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,14.8
+2023-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,15.8
+2023-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,14.7
+2023-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.6
+2023-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.1
+2023-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.4
+2023-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.8
+2023-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,5.2
+2023-03-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-76.8
+2023-05-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-77.8
+2023-07-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-76.4
+2023-09-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-74.6
+2023-11-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-75.0
+2023-03-01,Income,Current Perception,Increased,22.2
+2023-05-01,Income,Current Perception,Increased,23.9
+2023-07-01,Income,Current Perception,Increased,25.4
+2023-09-01,Income,Current Perception,Increased,25.0
+2023-11-01,Income,Current Perception,Increased,27.2
+2023-03-01,Income,Current Perception,Remained Same,49.7
+2023-05-01,Income,Current Perception,Remained Same,49.7
+2023-07-01,Income,Current Perception,Remained Same,49.9
+2023-09-01,Income,Current Perception,Remained Same,49.8
+2023-11-01,Income,Current Perception,Remained Same,50.1
+2023-03-01,Income,Current Perception,Decreased,28.1
+2023-05-01,Income,Current Perception,Decreased,26.3
+2023-07-01,Income,Current Perception,Decreased,24.8
+2023-09-01,Income,Current Perception,Decreased,25.2
+2023-11-01,Income,Current Perception,Decreased,22.7
+2023-03-01,Income,Current Perception,Net Response,-5.9
+2023-05-01,Income,Current Perception,Net Response,-2.4
+2023-07-01,Income,Current Perception,Net Response,0.6
+2023-09-01,Income,Current Perception,Net Response,-0.3
+2023-11-01,Income,Current Perception,Net Response,4.5
+2023-03-01,Income,One year ahead Expectation,Will Increase,54.1
+2023-05-01,Income,One year ahead Expectation,Will Increase,53.8
+2023-07-01,Income,One year ahead Expectation,Will Increase,54.7
+2023-09-01,Income,One year ahead Expectation,Will Increase,55.7
+2023-11-01,Income,One year ahead Expectation,Will Increase,57.9
+2023-03-01,Income,One year ahead Expectation,Will Remain Same,38.4
+2023-05-01,Income,One year ahead Expectation,Will Remain Same,39.4
+2023-07-01,Income,One year ahead Expectation,Will Remain Same,38.6
+2023-09-01,Income,One year ahead Expectation,Will Remain Same,37.8
+2023-11-01,Income,One year ahead Expectation,Will Remain Same,36.0
+2023-03-01,Income,One year ahead Expectation,Will Decrease,7.5
+2023-05-01,Income,One year ahead Expectation,Will Decrease,6.9
+2023-07-01,Income,One year ahead Expectation,Will Decrease,6.7
+2023-09-01,Income,One year ahead Expectation,Will Decrease,6.5
+2023-11-01,Income,One year ahead Expectation,Will Decrease,6.1
+2023-03-01,Income,One year ahead Expectation,Net Response,46.7
+2023-05-01,Income,One year ahead Expectation,Net Response,46.9
+2023-07-01,Income,One year ahead Expectation,Net Response,48.0
+2023-09-01,Income,One year ahead Expectation,Net Response,49.2
+2023-11-01,Income,One year ahead Expectation,Net Response,51.8
+2023-03-01,Spending,Current Perception,Increased,75.0
+2023-05-01,Spending,Current Perception,Increased,73.4
+2023-07-01,Spending,Current Perception,Increased,74.5
+2023-09-01,Spending,Current Perception,Increased,74.6
+2023-11-01,Spending,Current Perception,Increased,74.8
+2023-03-01,Spending,Current Perception,Remained Same,19.6
+2023-05-01,Spending,Current Perception,Remained Same,21.3
+2023-07-01,Spending,Current Perception,Remained Same,20.5
+2023-09-01,Spending,Current Perception,Remained Same,20.2
+2023-11-01,Spending,Current Perception,Remained Same,20.6
+2023-03-01,Spending,Current Perception,Decreased,5.4
+2023-05-01,Spending,Current Perception,Decreased,5.3
+2023-07-01,Spending,Current Perception,Decreased,5.0
+2023-09-01,Spending,Current Perception,Decreased,5.2
+2023-11-01,Spending,Current Perception,Decreased,4.6
+2023-03-01,Spending,Current Perception,Net Response,69.6
+2023-05-01,Spending,Current Perception,Net Response,68.1
+2023-07-01,Spending,Current Perception,Net Response,69.6
+2023-09-01,Spending,Current Perception,Net Response,69.4
+2023-11-01,Spending,Current Perception,Net Response,70.1
+2023-03-01,Spending,One year ahead Expectation,Will Increase,75.4
+2023-05-01,Spending,One year ahead Expectation,Will Increase,73.8
+2023-07-01,Spending,One year ahead Expectation,Will Increase,73.8
+2023-09-01,Spending,One year ahead Expectation,Will Increase,75.2
+2023-11-01,Spending,One year ahead Expectation,Will Increase,75.0
+2023-03-01,Spending,One year ahead Expectation,Will Remain Same,19.9
+2023-05-01,Spending,One year ahead Expectation,Will Remain Same,21.7
+2023-07-01,Spending,One year ahead Expectation,Will Remain Same,21.3
+2023-09-01,Spending,One year ahead Expectation,Will Remain Same,20.3
+2023-11-01,Spending,One year ahead Expectation,Will Remain Same,21.0
+2023-03-01,Spending,One year ahead Expectation,Will Decrease,4.6
+2023-05-01,Spending,One year ahead Expectation,Will Decrease,4.6
+2023-07-01,Spending,One year ahead Expectation,Will Decrease,4.8
+2023-09-01,Spending,One year ahead Expectation,Will Decrease,4.6
+2023-11-01,Spending,One year ahead Expectation,Will Decrease,4.1
+2023-03-01,Spending,One year ahead Expectation,Net Response,70.8
+2023-05-01,Spending,One year ahead Expectation,Net Response,69.2
+2023-07-01,Spending,One year ahead Expectation,Net Response,69.0
+2023-09-01,Spending,One year ahead Expectation,Net Response,70.6
+2023-11-01,Spending,One year ahead Expectation,Net Response,70.9
+2023-03-01,Spending- Essential Items,Current Perception,Increased,85.3
+2023-05-01,Spending- Essential Items,Current Perception,Increased,84.0
+2023-07-01,Spending- Essential Items,Current Perception,Increased,85.3
+2023-09-01,Spending- Essential Items,Current Perception,Increased,84.9
+2023-11-01,Spending- Essential Items,Current Perception,Increased,85.7
+2024-01-01,Spending- Essential Items,Current Perception,Increased,84.1
+2023-03-01,Spending- Essential Items,Current Perception,Remained Same,11.5
+2023-05-01,Spending- Essential Items,Current Perception,Remained Same,12.8
+2023-07-01,Spending- Essential Items,Current Perception,Remained Same,11.8
+2023-09-01,Spending- Essential Items,Current Perception,Remained Same,11.9
+2023-11-01,Spending- Essential Items,Current Perception,Remained Same,11.4
+2024-01-01,Spending- Essential Items,Current Perception,Remained Same,12.9
+2023-03-01,Spending- Essential Items,Current Perception,Decreased,3.2
+2023-05-01,Spending- Essential Items,Current Perception,Decreased,3.2
+2023-07-01,Spending- Essential Items,Current Perception,Decreased,3.0
+2023-09-01,Spending- Essential Items,Current Perception,Decreased,3.2
+2023-11-01,Spending- Essential Items,Current Perception,Decreased,2.9
+2024-01-01,Spending- Essential Items,Current Perception,Decreased,3.0
+2023-03-01,Spending- Essential Items,Current Perception,Net Response,82.1
+2023-05-01,Spending- Essential Items,Current Perception,Net Response,80.8
+2023-07-01,Spending- Essential Items,Current Perception,Net Response,82.3
+2023-09-01,Spending- Essential Items,Current Perception,Net Response,81.7
+2023-11-01,Spending- Essential Items,Current Perception,Net Response,82.7
+2024-01-01,Spending- Essential Items,Current Perception,Net Response,81.1
+2023-03-01,Spending- Essential Items,One year ahead Expectation,Will Increase,81.7
+2023-05-01,Spending- Essential Items,One year ahead Expectation,Will Increase,81.3
+2023-07-01,Spending- Essential Items,One year ahead Expectation,Will Increase,81.0
+2023-09-01,Spending- Essential Items,One year ahead Expectation,Will Increase,82.0
+2023-11-01,Spending- Essential Items,One year ahead Expectation,Will Increase,82.3
+2024-01-01,Spending- Essential Items,One year ahead Expectation,Will Increase,81.8
+2023-03-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,14.8
+2023-05-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,15.2
+2023-07-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,15.5
+2023-09-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,14.4
+2023-11-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,14.4
+2024-01-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,14.6
+2023-03-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.5
+2023-05-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.5
+2023-07-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.5
+2023-09-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.6
+2023-11-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.4
+2024-01-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.6
+2023-03-01,Spending- Essential Items,One year ahead Expectation,Net Response,78.2
+2023-05-01,Spending- Essential Items,One year ahead Expectation,Net Response,77.8
+2023-07-01,Spending- Essential Items,One year ahead Expectation,Net Response,77.5
+2023-09-01,Spending- Essential Items,One year ahead Expectation,Net Response,78.4
+2023-11-01,Spending- Essential Items,One year ahead Expectation,Net Response,78.9
+2024-01-01,Spending- Essential Items,One year ahead Expectation,Net Response,78.2
+2023-03-01,Spending- Non-Essential Items,Current Perception,Increased,25.2
+2023-05-01,Spending- Non-Essential Items,Current Perception,Increased,25.8
+2023-07-01,Spending- Non-Essential Items,Current Perception,Increased,26.6
+2023-09-01,Spending- Non-Essential Items,Current Perception,Increased,23.4
+2023-11-01,Spending- Non-Essential Items,Current Perception,Increased,25.2
+2024-01-01,Spending- Non-Essential Items,Current Perception,Increased,27.2
+2023-03-01,Spending- Non-Essential Items,Current Perception,Remained Same,34.8
+2023-05-01,Spending- Non-Essential Items,Current Perception,Remained Same,38.2
+2023-07-01,Spending- Non-Essential Items,Current Perception,Remained Same,36.9
+2023-09-01,Spending- Non-Essential Items,Current Perception,Remained Same,38.5
+2023-11-01,Spending- Non-Essential Items,Current Perception,Remained Same,36.6
+2024-01-01,Spending- Non-Essential Items,Current Perception,Remained Same,36.2
+2023-03-01,Spending- Non-Essential Items,Current Perception,Decreased,40.0
+2023-05-01,Spending- Non-Essential Items,Current Perception,Decreased,36.1
+2023-07-01,Spending- Non-Essential Items,Current Perception,Decreased,36.5
+2023-09-01,Spending- Non-Essential Items,Current Perception,Decreased,38.2
+2023-11-01,Spending- Non-Essential Items,Current Perception,Decreased,38.2
+2024-01-01,Spending- Non-Essential Items,Current Perception,Decreased,36.6
+2023-03-01,Spending- Non-Essential Items,Current Perception,Net Response,-14.8
+2023-05-01,Spending- Non-Essential Items,Current Perception,Net Response,-10.3
+2023-07-01,Spending- Non-Essential Items,Current Perception,Net Response,-10.0
+2023-09-01,Spending- Non-Essential Items,Current Perception,Net Response,-14.8
+2023-11-01,Spending- Non-Essential Items,Current Perception,Net Response,-13.0
+2024-01-01,Spending- Non-Essential Items,Current Perception,Net Response,-9.4
+2023-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,34.5
+2023-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,35.3
+2023-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,34.8
+2023-09-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,33.0
+2023-11-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,34.1
+2024-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,34.6
+2023-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,36.8
+2023-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,37.5
+2023-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,37.6
+2023-09-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,38.2
+2023-11-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,36.8
+2024-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,36.4
+2023-03-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,28.8
+2023-05-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,27.2
+2023-07-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,27.6
+2023-09-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,28.8
+2023-11-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,29.0
+2024-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,29.0
+2023-03-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,5.7
+2023-05-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,8.2
+2023-07-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,7.3
+2023-09-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,4.2
+2023-11-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,5.1
+2024-01-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,5.5
+2023-01-01,the General Economic Situation,Current Perception,Increased,28.3
+2023-01-01,the General Economic Situation,Current Perception,Remained Same,19.6
+2023-01-01,the General Economic Situation,Current Perception,Decreased,52.1
+2023-01-01,the General Economic Situation,Current Perception,Net Response,-23.7
+2023-01-01,the General Economic Situation,One year ahead Expectation,Will Increase,50.2
+2023-01-01,the General Economic Situation,One year ahead Expectation,Will Remain Same,16.6
+2023-01-01,the General Economic Situation,One year ahead Expectation,Will Decrease,33.2
+2023-01-01,the General Economic Situation,One year ahead Expectation,Net Response,17.0
+2023-01-01,Employment,Current Perception,Increased,30.0
+2023-01-01,Employment,Current Perception,Remained Same,20.1
+2023-01-01,Employment,Current Perception,Decreased,49.9
+2023-01-01,Employment,Current Perception,Net Response,-19.9
+2023-01-01,Employment,One year ahead Expectation,Will Increase,51.8
+2023-01-01,Employment,One year ahead Expectation,Will Remain Same,18.0
+2023-01-01,Employment,One year ahead Expectation,Will Decrease,30.2
+2023-01-01,Employment,One year ahead Expectation,Net Response,21.6
+2023-01-01,Price Level,Current Perception,Increased,93.6
+2023-01-01,Price Level,Current Perception,Remained Same,5.0
+2023-01-01,Price Level,Current Perception,Decreased,1.3
+2023-01-01,Price Level,Current Perception,Net Response,-92.3
+2023-01-01,Price Level,One year ahead Expectation,Will Increase,83.0
+2023-01-01,Price Level,One year ahead Expectation,Will Remain Same,10.1
+2023-01-01,Price Level,One year ahead Expectation,Will Decrease,7.0
+2023-01-01,Price Level,One year ahead Expectation,Net Response,-76.1
+2023-01-01,Rate of Change in Price Level (Inflation),Current Perception,Increased,86.5
+2023-01-01,Rate of Change in Price Level (Inflation),Current Perception,Remained Same,10.5
+2023-01-01,Rate of Change in Price Level (Inflation),Current Perception,Decreased,3.0
+2023-01-01,Rate of Change in Price Level (Inflation),Current Perception,Net Response,-83.6
+2023-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Increase,80.3
+2023-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Remain Same,15.5
+2023-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Will Decrease,4.1
+2023-01-01,Rate of Change in Price Level (Inflation),One year ahead Expectation,Net Response,-76.2
+2023-01-01,Income,Current Perception,Increased,21.4
+2023-01-01,Income,Current Perception,Remained Same,49.0
+2023-01-01,Income,Current Perception,Decreased,29.6
+2023-01-01,Income,Current Perception,Net Response,-8.3
+2023-01-01,Income,One year ahead Expectation,Will Increase,54.5
+2023-01-01,Income,One year ahead Expectation,Will Remain Same,38.7
+2023-01-01,Income,One year ahead Expectation,Will Decrease,6.9
+2023-01-01,Income,One year ahead Expectation,Net Response,47.6
+2023-01-01,Spending,Current Perception,Increased,73.9
+2023-01-01,Spending,Current Perception,Remained Same,20.6
+2023-01-01,Spending,Current Perception,Decreased,5.5
+2023-01-01,Spending,Current Perception,Net Response,68.4
+2023-01-01,Spending,One year ahead Expectation,Will Increase,75.5
+2023-01-01,Spending,One year ahead Expectation,Will Remain Same,19.8
+2023-01-01,Spending,One year ahead Expectation,Will Decrease,4.7
+2023-01-01,Spending,One year ahead Expectation,Net Response,70.8
+2023-01-01,Spending- Essential Items,Current Perception,Increased,84.1
+2023-01-01,Spending- Essential Items,Current Perception,Remained Same,12.3
+2023-01-01,Spending- Essential Items,Current Perception,Decreased,3.6
+2023-01-01,Spending- Essential Items,Current Perception,Net Response,80.5
+2023-01-01,Spending- Essential Items,One year ahead Expectation,Will Increase,81.3
+2023-01-01,Spending- Essential Items,One year ahead Expectation,Will Remain Same,15.2
+2023-01-01,Spending- Essential Items,One year ahead Expectation,Will Decrease,3.5
+2023-01-01,Spending- Essential Items,One year ahead Expectation,Net Response,77.8
+2023-01-01,Spending- Non-Essential Items,Current Perception,Increased,22.1
+2023-01-01,Spending- Non-Essential Items,Current Perception,Remained Same,35.2
+2023-01-01,Spending- Non-Essential Items,Current Perception,Decreased,42.8
+2023-01-01,Spending- Non-Essential Items,Current Perception,Net Response,-20.7
+2023-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Increase,31.9
+2023-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Remain Same,38.4
+2023-01-01,Spending- Non-Essential Items,One year ahead Expectation,Will Decrease,29.8
+2023-01-01,Spending- Non-Essential Items,One year ahead Expectation,Net Response,2.1

@@ -1,0 +1,31 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.DS_Store
+.env
+.env.*
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~
+# Jupyter Notebooks
+.ipynb_checkpoints
+# VS Code
+.vscode/
+# Data files
+!data/processed/consolidated_uccs_data.csv
+*.csv
+*.xlsx
+*.xls
+*.pdf
+# System files
+Thumbs.db
