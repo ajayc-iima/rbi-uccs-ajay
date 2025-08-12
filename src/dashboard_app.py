@@ -72,10 +72,17 @@ def main():
     # Trend Analysis
     st.subheader("Trend Analysis")
     if not filtered_df.empty:
-        # Group by survey_round, perception_category, perception_type, response_category
-        # and plot lines for each response_type and response_category
+        # Sort by survey_round for proper chronological order
+        try:
+            filtered_df_sorted = filtered_df.copy()
+            filtered_df_sorted['survey_round'] = pd.to_datetime(filtered_df_sorted['survey_round'], errors='coerce')
+            filtered_df_sorted = filtered_df_sorted.sort_values('survey_round')
+            filtered_df_sorted['survey_round'] = filtered_df_sorted['survey_round'].dt.strftime('%Y-%m-%d')
+        except Exception:
+            filtered_df_sorted = filtered_df.sort_values('survey_round')
+
         trend_fig = px.line(
-            filtered_df,
+            filtered_df_sorted,
             x='survey_round',
             y='response_percentage',
             color='response_category',
