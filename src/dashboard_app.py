@@ -28,7 +28,6 @@ def load_data(path: str) -> pd.DataFrame:
     try:
         df = pd.read_csv(path)
         # Convert survey_round to datetime for correct chronological sorting
-        # This handles various date formats more robustly.
         df['survey_round_dt'] = pd.to_datetime(df['survey_round'], errors='coerce')
         df = df.dropna(subset=['survey_round_dt']).sort_values('survey_round_dt')
         return df
@@ -43,7 +42,7 @@ def display_sidebar(df: pd.DataFrame):
     """
     st.sidebar.header("📊 Dashboard Filters")
 
-    # Filter by Perception Category (e.g., General Price Level, Inflation)
+    # Filter by Perception Category
     perception_categories = df['perception_category'].dropna().unique().tolist()
     selected_categories = st.sidebar.multiselect(
         "Select Perception Categories:",
@@ -51,7 +50,7 @@ def display_sidebar(df: pd.DataFrame):
         default=perception_categories[:2] if len(perception_categories) > 1 else perception_categories
     )
 
-    # Filter by Perception Type (e.g., Current, 3-Month Ahead, 1-Year Ahead)
+    # Filter by Perception Type
     perception_types = df['perception_type'].dropna().unique().tolist()
     selected_types = st.sidebar.multiselect(
         "Select Perception Types:",
@@ -61,7 +60,6 @@ def display_sidebar(df: pd.DataFrame):
 
     # Dynamic metric selection for the y-axis
     numeric_columns = df.select_dtypes(include='number').columns.tolist()
-    # Exclude datetime columns if they are numeric (e.g., timestamps)
     numeric_columns = [col for col in numeric_columns if 'dt' not in col]
     selected_metric = st.sidebar.selectbox(
         "Select Metric for Trend Analysis:",
@@ -70,42 +68,6 @@ def display_sidebar(df: pd.DataFrame):
     )
 
     return selected_categories, selected_types, selected_metric
-
-def display_kpis(df: pd.DataFrame, selected_categories: list):
-    """
-    Displays key performance indicators (KPIs) at the top of the dashboard.
-    """
-    st.subheader("Key Indicator Snapshot")
-
-    # Ensure there's data to process
-    if df.empty or not selected_categories:
-        st.info("Select at least one perception category to view KPIs.")
-        return
-
-    # Use the most recent survey round for KPIs
-    latest_round = df['survey_round'].iloc[-1]
-    kpi_df = df[df['survey_round'] == latest_round]
-
-    cols = st.columns(len(selected_categories))
-
-    for i, category in enumerate(selected_categories):
-        with cols[i]:
-            # Get data for the current category and perception type 'Current'
-            cat_df = kpi_df[(kpi_df['perception_category'] == category) &
-                            (kpi_df['perception_type'] == 'Current Perception')]
-
-            if not cat_df.empty:
-                # Find the response with the highest percentage
-                main_response = cat_df.loc[cat_df['response_percentage'].idxmax()]
-                value = f"{main_response['response_percentage']:.1f}%"
-                st.metric(
-                    label=f"{category} ({latest_round})",
-                    value=value,
-                    help=f"The dominant response for '{category}' in the most recent survey was '{main_response['response_category']}'."
-                )
-            else:
-                 st.metric(label=category, value="N/A", help="No 'Current Perception' data for this category in the latest round.")
-
 
 def display_trend_tab(df: pd.DataFrame, metric: str):
     """
@@ -189,7 +151,7 @@ def display_snapshot_tab(df: pd.DataFrame):
     st.subheader("🎯 Period Snapshot")
     all_rounds = df['survey_round'].unique()
 
-    if len(all_rounds) == 0:
+    if not all_rounds.any():
         st.warning("No survey rounds available in the filtered data.")
         return
 
@@ -206,14 +168,13 @@ def display_snapshot_tab(df: pd.DataFrame):
         st.warning(f"No data available for {selected_round} with current filters.")
         return
 
-    # Get perception categories present in the snapshot data
     snapshot_categories = snapshot_df['perception_category'].unique()
 
-    if len(snapshot_categories) == 0:
+    if not snapshot_categories.any():
         st.info("No perception categories to display for this round.")
         return
 
-    cols = st.columns(min(len(snapshot_categories), 4)) # Display up to 4 charts side-by-side
+    cols = st.columns(min(len(snapshot_categories), 4))
 
     for i, category in enumerate(snapshot_categories):
         cat_df = snapshot_df[snapshot_df['perception_category'] == category]
@@ -223,7 +184,7 @@ def display_snapshot_tab(df: pd.DataFrame):
                 values='response_percentage',
                 names='response_category',
                 title=f"{category}",
-                hole=0.4, # Creates the donut chart effect
+                hole=0.4,
             )
             fig.update_traces(textposition='inside', textinfo='percent+label')
             fig.update_layout(showlegend=False, margin=dict(t=40, b=0, l=0, r=0))
@@ -234,7 +195,6 @@ def main():
     """
     Main function to run the Streamlit application.
     """
-    # --- Title and Introduction ---
     st.title("🏦 RBI UCCS Policy Analysis Dashboard")
     st.markdown("""
     Welcome to the interactive dashboard for the **RBI's Survey of Urban Households on Inflation and Economic Perceptions**.
@@ -242,9 +202,6 @@ def main():
     """)
     st.markdown("---")
 
-    # --- Load Data ---
-    # This path assumes the script is in a subfolder (e.g., 'scripts')
-    # and the data is in '../data/processed/' relative to the script.
     DATA_PATH = os.path.join(
         os.path.dirname(__file__),
         '../data/processed/consolidated_uccs_data.csv'
@@ -252,12 +209,10 @@ def main():
 
     df = load_data(DATA_PATH)
     if df.empty:
-        st.stop() # Stop execution if data loading fails
+        st.stop()
 
-    # --- Sidebar and Filters ---
     selected_categories, selected_types, selected_metric = display_sidebar(df)
 
-    # --- Filter Data based on selections ---
     if not selected_categories or not selected_types:
         st.warning("Please select at least one perception category and one perception type from the sidebar.")
         st.stop()
@@ -270,10 +225,6 @@ def main():
     if filtered_df.empty:
         st.warning("No data matches the current filter criteria. Please broaden your selections.")
         st.stop()
-
-    # --- Main Panel ---
-    display_kpis(filtered_df, selected_categories)
-    st.markdown("---")
 
     # --- Analysis Tabs ---
     tab1, tab2, tab3 = st.tabs(["📊 Trend Analysis", "⚖️ Comparative Insight", "📸 Period Snapshot"])
@@ -290,8 +241,6 @@ def main():
     # --- Data Explorer ---
     with st.expander("🔍 Data Explorer"):
         st.dataframe(filtered_df, use_container_width=True)
-
-        # CSV Download
         csv = filtered_df.to_csv(index=False).encode('utf-8')
         st.download_button(
             label="📥 Download Filtered Data as CSV",
@@ -302,3 +251,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+    # ajaychoudhary@Ajays-MacBook-Pro rbi-uccs-ajay-clean % cd "/Users/ajaychoudhary/Documents/Data Research Fellow Task/rbi-uccs-ajay-clean" && cp ../rbi-uccs-ajay/src/dashboard_app.py src/dashboard_app.py && git add src/dashboard_app.py && git commit -m "Sort trend analysis data by survey_round for correct chart order" && git push;  cd -
