@@ -109,7 +109,7 @@ def main():
     else:
         selected_round = None
     if indicator and selected_round:
-        comp_df = df[(df['perception_category'] == indicator) & (df['survey_round'] == selected_round)]
+        comp_df = filtered_df[(filtered_df['perception_category'] == indicator) & (filtered_df['survey_round'] == selected_round)]
         if not comp_df.empty:
             comp_fig = px.bar(
                 comp_df,
