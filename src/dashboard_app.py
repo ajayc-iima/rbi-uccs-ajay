@@ -33,7 +33,7 @@ def load_data(path: str) -> pd.DataFrame:
         df = df.dropna(subset=['survey_round_dt']).sort_values('survey_round_dt')
         return df
     except FileNotFoundError:
-        st.error(f"🚨 Data file not found at `{path}`. Please ensure the file exists in the same directory as your script.")
+        st.error(f"🚨 Data file not found at `{path}`. Please ensure your project has the correct folder structure.")
         return pd.DataFrame()
 
 # --- UI Components ---
@@ -243,8 +243,12 @@ def main():
     st.markdown("---")
 
     # --- Load Data ---
-    # The script will look for this file in the same directory where the script is saved.
-    DATA_PATH = "consolidated_uccs_data.csv"
+    # This path assumes the script is in a subfolder (e.g., 'scripts')
+    # and the data is in '../data/processed/' relative to the script.
+    DATA_PATH = os.path.join(
+        os.path.dirname(__file__),
+        '../data/processed/consolidated_uccs_data.csv'
+    )
 
     df = load_data(DATA_PATH)
     if df.empty:
