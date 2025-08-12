@@ -56,15 +56,15 @@ def main():
     else:
         response_types = []
     if response_types:
-        selected_response = st.sidebar.radio("Response Type:", response_types)
+        selected_responses = st.sidebar.multiselect("Select Response Types:", response_types, default=response_types)
     else:
-        selected_response = None
+        selected_responses = []
 
     # Filtered Data
-    if selected_categories and selected_response:
+    if selected_categories and selected_responses:
         filtered_df = df[
             (df['perception_category'].isin(selected_categories)) &
-            (df['perception_type'] == selected_response)
+            (df['perception_type'].isin(selected_responses))
         ]
     else:
         filtered_df = df.copy()
@@ -72,14 +72,16 @@ def main():
     # Trend Analysis
     st.subheader("Trend Analysis")
     if not filtered_df.empty:
+        # Group by survey_round, perception_category, perception_type, response_category
+        # and plot lines for each response_type and response_category
         trend_fig = px.line(
             filtered_df,
             x='survey_round',
             y='response_percentage',
             color='response_category',
-            line_dash='perception_category',
+            line_dash='perception_type',
             markers=True,
-            title=f"Trend of Response Categories ({selected_response})"
+            title=f"Trend of Response Categories by Response Type"
         )
         st.plotly_chart(trend_fig, use_container_width=True)
     else:
