@@ -35,13 +35,13 @@ def main():
     selected_categories = st.sidebar.multiselect(
         "Select Perception Categories:", perception_categories, default=perception_categories[:2]
     )
-    response_types = ['Current Perception', 'One Year Ahead Expectation']
+    response_types = df['perception_type'].unique().tolist()
     selected_response = st.sidebar.radio("Response Type:", response_types)
 
     # Filtered Data
     filtered_df = df[
         (df['perception_category'].isin(selected_categories)) &
-        (df['response_type'] == selected_response)
+        (df['perception_type'] == selected_response)
     ]
 
     # Trend Analysis
@@ -67,7 +67,7 @@ def main():
         comp_df,
         x='response_category',
         y='response_percentage',
-        color='response_type',
+        color='perception_type',
         barmode='group',
         title=f"Comparative View for {indicator} ({selected_round})"
     )
